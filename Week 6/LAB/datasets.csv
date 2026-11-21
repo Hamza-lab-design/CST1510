@@ -1,0 +1,9 @@
+dataset,rows_loaded,rows_expected
+survey_2026,1187,1200
+sales_q3,5320,5000
+web_logs,8450,10000
+customer_feedback,912,960
+sensor_readings,20410,20000
+product_reviews,2600,4000
+clinic_visits,1425,1500
+exam_scores,310,640

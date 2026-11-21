@@ -1,0 +1,9 @@
+dataset,rows_loaded,rows_expected,percent,status
+survey_2026,1187,1200,98.91666666666666,WARNING
+sales_q3,5320,5000,106.4,OVER LIMIT
+web_logs,8450,10000,84.5,OK
+customer_feedback,912,960,95.0,WARNING
+sensor_readings,20410,20000,102.05,OVER LIMIT
+product_reviews,2600,4000,65.0,OK
+clinic_visits,1425,1500,95.0,WARNING
+exam_scores,310,640,48.4375,OK
